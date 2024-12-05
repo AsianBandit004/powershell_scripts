@@ -1,0 +1,1 @@
+﻿Set-MailboxJunkEmailConfiguration "ysahibzada" -TrustedSendersAndDomains @{Add="@wayweworksurvey@gmail.com"}
