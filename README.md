@@ -15,7 +15,9 @@ Feel free to explore, use, or modify any of these scripts to suit your needs. Th
 
 ## 📝 How to Use
 
-To run any of the scripts, you can clone the repository and execute the scripts directly from PowerShell:
+To run any of the scripts, you can clone the repository and execute the scripts directly from PowerShell
+**PLEASE NOTE YOU WILL NEED TO CHANGE A FEW THINGS TO FIT YOUR ENVIRONMENT LIKE FILE PATH AND IP ADDRESS
+AND MAKE SURE THE POWERSHELL MODULES ARE INSTALLED IN AD**:
 
 1. Clone this repository:
     ```bash
